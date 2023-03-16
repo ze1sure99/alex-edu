@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.alex:edu-ad-boot-api:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../repo/com/alex/edu-ad-boot-api/1.0-SNAPSHOT/edu-ad-boot-api-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../edu-ad-boot/edu-ad-boot-api/edu-ad-boot-api-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../repo/com/alex/edu-ad-boot-api/1.0-SNAPSHOT/edu-ad-boot-api-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../edu-ad-boot/edu-ad-boot-api/edu-ad-boot-api-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../repo/com/alex/edu-ad-boot-api/1.0-SNAPSHOT/edu-ad-boot-api-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

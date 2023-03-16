@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="edu-boss-boot" />
+        <module name="edu-config-boot" />
+        <module name="edu-common" />
+        <module name="edu-ad-boot-impl" />
+        <module name="edu-front-boot" />
+        <module name="edu-gateway-boot" />
+        <module name="edu-user-boot-api" />
+        <module name="edu-ad-boot-api" />
+        <module name="edu-eureka-boot" />
+        <module name="edu-user-boot-impl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="edu-ad-boot" target="1.5" />
+      <module name="edu-ad-boot-api" target="1.5" />
+      <module name="edu-ad-boot-impl" target="1.5" />
+      <module name="edu-bom" target="1.5" />
+      <module name="edu-boss-boot" target="1.5" />
+      <module name="edu-common" target="1.5" />
+      <module name="edu-config-boot" target="1.5" />
+      <module name="edu-eureka-boot" target="1.5" />
+      <module name="edu-front-boot" target="1.5" />
+      <module name="edu-gateway-boot" target="1.5" />
+      <module name="edu-user-boot" target="8" />
+      <module name="edu-user-boot-api" target="8" />
+      <module name="edu-user-boot-impl" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="edu-ad-boot-api" options="" />
+      <module name="edu-ad-boot-impl" options="" />
+      <module name="edu-boss-boot" options="" />
+      <module name="edu-config-boot" options="" />
+      <module name="edu-eureka-boot" options="" />
+      <module name="edu-front-boot" options="" />
+      <module name="edu-gateway-boot" options="" />
+    </option>
+  </component>
+</project>
